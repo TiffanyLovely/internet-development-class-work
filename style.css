@@ -1,0 +1,10 @@
+.section-header {
+    color: black;
+    border: 3px dotted green;
+    text-align: center;
+  }
+  .section-text {
+    color: cadetblue;
+    font-size: larger;
+    font-style: oblique;
+  }
